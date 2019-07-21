@@ -8,7 +8,6 @@
     <el-row type="flex" justify="space-between">
         <!-- 搜索表单组件 -->
         <SearchForm/>
-
         <!-- banner广告 -->
         <div class="sale-banner">
             <img src="http://157.122.54.189:9093/images/pic_sale.jpeg">
